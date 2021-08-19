@@ -1,3 +1,1 @@
-this line has been added by developer2 (B) for git conflict on conflict2 branch
-this is the first line added on conflict1 branch for testing conflict
-
+I am writing from branch_2 to  test1.txt file
