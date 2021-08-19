@@ -1,0 +1,1 @@
+this line has been added by developer2 (B) for git conflict on conflict2 branch
